@@ -66,7 +66,7 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 |13|[On Her Majesty's Secret Service](/Problems_of_the_Week/on_her_majesty's_secret_service.cpp)|<details><summary> Click to reveal </summary> Dijkstra + Max Flow + Binary Search </details>|
 
 ## Official solutions
-Official solutions are available for the following problems:
+Official solutions are available for the following problems (in alphabetical order):
 
 [Algocoon](/Official_Solutions/algocoon_solution.pdf)
 
