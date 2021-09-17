@@ -66,15 +66,49 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 
 ## Official solutions
 Official solutions are available for the following problems:
-<ul>
-  <li>A</li>
-  <li>B</li>
-</ul>
+
+[Algocoon](/Official_Solutions/algocoon_solution.pdf)
+
+[Buddy Selection](/Official_Solutions/buddy_selection_solution.pdf)
+
+[Carsharing](/Official_Solutions/carsharing_solution.pdf)
+
+[Clues](/Official_Solutions/clues_solution.pdf)
+
+[Even Matrices](/Official_Solutions/even_matrices_solution.pdf)
+
+[Evolution](/Official_Solutions/evolution_solution.pdf)
+
+[First Hit](/Official_Solutions/firsthit_solution.pdf)
+
+[From Russia with Love](/Official_Solutions/from_russia_with_love_solution.pdf)
+
+[Germs](/Official_Solutions/germs_solution.pdf)
+
+[Hiking Maps](/Official_Solutions/hiking_maps_solution.pdf)
+
+[Important Bridges](/Official_Solutions/important_bridges_solution.pdf)
+
+[Inball](/Official_Solutions/inball_solution.pdf)
+
+[Kingdom Defence](/Official_Solutions/kingdom_defence_solution.pdf)
+
+[Knights](/Official_Solutions/knights_solution.pdf)
+
+[Moving Books](/Official_Solutions/moving_books_solution.pdf)
+
+[On Her Majesty's Secret Service](/Official_Solutions/on_her_majesty's_secret_service_solution.pdf)
+
+[The Great Game](/Official_Solutions/the_great_game_solution.pdf)
+
 
 ## 3-Fold Problem Sets
-[Olympic Games](/3-Fold_Problem_Sets/olympicgames.pdf) ([solutions](/3-Fold_Problem_Sets/olympicgames.pdf))
-[Domino Magic](/3-Fold_Problem_Sets/domino_magic.pdf)  ([solutions](/3-Fold_Problem_Sets/domino_magic.pdf))
-[Christmas Presents](/3-Fold_Problem_Sets/christmas_presents.pdf)  ([solutions](/3-Fold_Problem_Sets/christmas_presents.pdf))
-[Partition](/Week1//3-Fold_Problem_Sets/partitions.pdf)  ([solutions](/3-Fold_Problem_Sets/partitions.pdf))
+[Olympic Games](/3-Fold_Problem_Sets/olympicgames.pdf) ([solutions](/3-Fold_Problem_Sets/olympicgames_solution.pdf))
+
+[Domino Magic](/3-Fold_Problem_Sets/domino_magic.pdf)  ([solutions](/3-Fold_Problem_Sets/domino_magic_solution.pdf))
+
+[Christmas Presents](/3-Fold_Problem_Sets/christmas_presents.pdf)  ([solutions](/3-Fold_Problem_Sets/christmas_presents_solution.pdf))
+
+[Partition](/Week1//3-Fold_Problem_Sets/partitions.pdf)  ([solutions](/3-Fold_Problem_Sets/partitions_solution.pdf))
 
 
