@@ -64,5 +64,17 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 |12|[Lannister](/Problems_of_the_Week/lannister.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
 |13|[On Her Majesty's Secret Service](/Problems_of_the_Week/on_her_majesty's_secret_service.cpp)|<details><summary> Click to reveal </summary> Dijkstra + Max Flow + Binary Search </details>|
 
+## Official solutions
+Official solutions are available for the following problems:
+<ul>
+  <li>A</li>
+  <li>B</li>
+</ul>
+
+## 3-Fold Problem Sets
+[Olympic Games](/3-Fold_Problem_Sets/olympicgames.pdf) ([solutions](/3-Fold_Problem_Sets/olympicgames.pdf))
+[Domino Magic](/3-Fold_Problem_Sets/domino_magic.pdf)  ([solutions](/3-Fold_Problem_Sets/domino_magic.pdf))
+[Christmas Presents](/3-Fold_Problem_Sets/christmas_presents.pdf)  ([solutions](/3-Fold_Problem_Sets/christmas_presents.pdf))
+[Partition](/Week1//3-Fold_Problem_Sets/partitions.pdf)  ([solutions](/3-Fold_Problem_Sets/partitions.pdf))
 
 
