@@ -1,5 +1,6 @@
 # AlgoLab-ETH-Zurich
 Algorithms Lab is a hands-on, intensive, essential course in Computer Science, held at ETH Zurich.
+It is focused on the development of algorithmic and problem solving skills.
 
 This repository has a double aim:
 * Help students who are currently attending the course find and understand solutions to the given problems;
@@ -38,7 +39,7 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 | [Week 4](/Week4)  | BGL: Basic graph algorithms | <ul><li>[First Steps with BGL](/Week4/first_steps.cpp)</li><li>[Ant Challenge](/Week4/ant_challenge.cpp)</li><li>[Buddy Selection](/Week4/buddy_selection.cpp)</li><li>[Important Bridges](/Week4/important_bridges.cpp)</li></ul> |
 | [Week 5](/Week5)  | Greedy, Split & List | <ul><li>[Boats](/Week5/boats.cpp)</li><li>[Asterix the Gaul](/Week5/asterix_the_gaul.cpp)</li><li>[San Francisco](/Week5/san_francisco.cpp)</li><li>[Attack of the Clones](/Week5/attack_of_the_clones.cpp)</li></ul> |
 | [Week 6](/Week6)  | BGL: Max Flow | <ul><li>[Tiles](/Week6/cointossing/tiles.cpp)</li><li>[Shopping Trip](/Week6/shopping/shopping_trip.cpp)</li><li>[Knights](/Week6/knights.cpp)</li><li>[Kingdom Defence](/Week6/kingdom_defence.cpp)</li></ul> |
-| [Week 7](/Week7)  | CGAL: Linear Programming | <ul><li>[Maximize it](/Week7/maximize_it.cpp)</li><li>[Diet](/Week7/diet.cpp)</li><li>[Inball](/Week7/inball.cpp)</li><li>Radiation(/Week7/radiation.cpp)</li></ul> |
+| [Week 7](/Week7)  | CGAL: Linear Programming | <ul><li>[Maximize it](/Week7/maximize_it.cpp)</li><li>[Diet](/Week7/diet.cpp)</li><li>[Inball](/Week7/inball.cpp)</li><li>[Radiation](/Week7/radiation.cpp)</li></ul> |
 | [Week 8](/Week8)  | CGAL: Proximity Structures | <ul><li>[Bistro](/Week8/bistro/bistro.cpp)</li><li>[Germs](/Week8/germs/germs.cpp)</li><li>[H1N1](/Week8/h1n1/h1n1.cpp)</li><li>[Clues](/Week8/clues.cpp)</li></ul> |
 | [Week 9](/Week9)  | BGL: Min-cost max flow (& advanced techniques based on max flow) | <ul><li>[Real Estate](/Week9/real_estate.cpp)</li><li>[Placing Knights](/Week9/placing_knights.cpp)</li><li>[Algocoon Group](/Week9/algocoon.cpp)</li><li>[Casino Royale](/Week9/casino_royale.cpp)</li></ul> |
 | [Week 10](/Week10)  | Multi-technique problems | <ul><li>[Worldcup](/Week10/worldcup.cpp)</li><li>[New York](/Week10/new_york.cpp)</li><li>[Asterix and the Chariot Race](/Week10/asterix_and_the_chariot_race.cpp)</li><li>[Asterix in Switzerland](/Week10/asterix_in_switzerland.cpp)</li></ul> |
