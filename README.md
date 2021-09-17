@@ -28,6 +28,9 @@ Problems of the Week are problems you should solve after completing the correspo
 
 The 3-fold problem sets are a collection of problems very similar to one another, yet requiring different techniques to be solved. The aim of these sets is not to write code, rather analyze the problems and identify the correct techniques to solve them.
 
+## Test sets
+Testsets are provided for all the <i>Weekly Exercises</i> and all <i>Problems of the Week</i>.
+
 ## Reminder: don't panic
 AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it is normal to spend very long time writing code, debugging and understanding the techniques being taught. If you have been stuck for several hours on some problem, remember almost every other student has been stuck for several hours on some other one (or very likely the same!)
 
