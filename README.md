@@ -57,12 +57,12 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 |5|[Tracking](/Problems_of_the_Week/tracking.cpp)|<details><summary> Click to reveal </summary> Dijkstra </details>|
 |6|[Octopussy](/Problems_of_the_Week/octopussy.cpp)|<details><summary> Click to reveal </summary> No specific technique (basic reasoning) </details>|
 |7|[Surveillance Photographs](/Problems_of_the_Week/surveillance_photographs.cpp)|<details><summary> Click to reveal </summary> BFS + Max Flow </details>|
-|8|[Legions](/Problems_of_the_Week/deck_of_.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
-|9|[Idefix](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Delaunay Triangulation + Connected Components </details>|
-|10|[Fleet Race](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Min-cost Max Flow </details>|
-|11|[The Iron Islands](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Sliding Window </details>|
-|12|[Lannister](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
-|13|[On Her Majesty's Secret Service](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Dijkstra + Max Flow + Binary Search </details>|
+|8|[Legions](/Problems_of_the_Week/legions.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
+|9|[Idefix](/Problems_of_the_Week/idefix.cpp)|<details><summary> Click to reveal </summary> Delaunay Triangulation + Connected Components </details>|
+|10|[Fleet Race](/Problems_of_the_Week/fleet_race.cpp)|<details><summary> Click to reveal </summary> Min-cost Max Flow </details>|
+|11|[The Iron Islands](/Problems_of_the_Week/the_iron_islands.cpp)|<details><summary> Click to reveal </summary> Sliding Window </details>|
+|12|[Lannister](/Problems_of_the_Week/lannister.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
+|13|[On Her Majesty's Secret Service](/Problems_of_the_Week/on_her_majesty's_secret_service.cpp)|<details><summary> Click to reveal </summary> Dijkstra + Max Flow + Binary Search </details>|
 
 
 
