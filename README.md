@@ -9,7 +9,7 @@ This repository has a double aim:
 * Dynamic programming
 * Sliding Window
 * 2D Geometry & Exact Computation Paradigm (CGAL: 2D Kernels)
-* Shortest Paths (BGL: Dijkstra), Minimum Spanning Trees (BGL: Kruskal) & Maximum Matchings (BGL: Edmonds)
+* Shortest Paths (BGL: Dijkstra), Minimum Spanning Trees (BGL: Kruskal), Maximum Matchings (BGL: Edmonds)
 * Greedy
 * Split & List
 * Linear Programming (CGAL)
@@ -29,7 +29,7 @@ The 3-fold problem sets are a collection of problems very similar to one another
 ## Reminder: don't panic
 AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it is normal to spend very long time writing code, debugging and understanding the techniques being taught. If you have been stuck for several hours on some problem, remember almost every other student has been stuck for several hours on some other one (or very likely the same!)
 
-## Week Exercises
+## Weekly Exercises
 | Week | Subject | Problems |
 | --- | --- | --- |
 | [Week 1](/Week1)  | Partial Sums | <ul><li>[Build the Sum](/Week1/build_the_sum.cpp)</li><li>[Dominoes](/Week1/dominoes.cpp)</li><li>[Even Pairs](/Week1/even_pairs.cpp)</li><li>[Even Matrices](/Week1/even_matrices.cpp)</li></ul>|
