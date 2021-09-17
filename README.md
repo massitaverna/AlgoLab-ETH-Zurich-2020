@@ -46,7 +46,23 @@ AlgoLab is one of the hardest courses in Computer Science at ETH. Therefore it i
 | [Week 11](/Week11)  | Multi-technique problems | <ul><li>[Lestrade](/Week11/lestrade.cpp)</li><li>[Return of the Jedi](/Week11/return_of_the_jedi.cpp)</li><li>[The Hand's Tourney](/Week11/hand.cpp)</li><li>[The Fighting Pits of Meereen](/Week11/fighting_pits_of_meereen.cpp)</li></ul> |
 | [Week 12](/Week12)  | Multi-technique problems | <ul><li>[India](/Week12/india.cpp)</li><li>[Hong Kong](/Week12/hong_kong.cpp)</li><li>[Moving Books](/Week12/moving_books.cpp)</li><li>[Carsharing](/Week12/carsharing.cpp)</li></ul> |
 | [Week 13](/Week13)  | Multi-technique problems | <ul><li>[Punch](/Week13/punch.cpp)</li><li>[Revenge of the Sith](/Week13/sith.cpp)</li><li>[Marathon](/Week13/marathon.cpp)</li><li>[Evolution](/Week13/evolution.cpp)</li></ul> |
----
+
+## Problems of the Week
+|#|Problem|Technique(s)|
+|---|---|---|
+|1|[Deck of Cards](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Sliding Window </details>|
+|2|[From Russia with Love](/Problems_of_the_Week/from_russia_with_love.cpp)|<details><summary> Click to reveal </summary> Dynamic Programming </details>|
+|3|[Defensive Line](/Problems_of_the_Week/defensive_line.cpp)|<details><summary> Click to reveal </summary> Sliding Window + Dynamic Programming </details>|
+|4|[Motorcycles](/Problems_of_the_Week/motorcycles.cpp)|<details><summary> Click to reveal </summary> 2D Geometry (CGAL's EPECK) </details>|
+|5|[Tracking](/Problems_of_the_Week/tracking.cpp)|<details><summary> Click to reveal </summary> Dijkstra </details>|
+|6|[Octopussy](/Problems_of_the_Week/octopussy.cpp)|<details><summary> Click to reveal </summary> No specific technique (basic reasoning) </details>|
+|7|[Surveillance Photographs](/Problems_of_the_Week/surveillance_photographs.cpp)|<details><summary> Click to reveal </summary> BFS + Max Flow </details>|
+|8|[Legions](/Problems_of_the_Week/deck_of_.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
+|9|[Idefix](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Delaunay Triangulation + Connected Components </details>|
+|10|[Fleet Race](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Min-cost Max Flow </details>|
+|11|[The Iron Islands](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Sliding Window </details>|
+|12|[Lannister](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Linear Programming </details>|
+|13|[On Her Majesty's Secret Service](/Problems_of_the_Week/deck_of_cards.cpp)|<details><summary> Click to reveal </summary> Dijkstra + Max Flow + Binary Search </details>|
 
 
 
