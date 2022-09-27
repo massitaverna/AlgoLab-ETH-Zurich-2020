@@ -1,4 +1,4 @@
-# AlgoLab-ETH-Zurich
+# AlgoLab 2020 - ETH Zürich
 Algorithms Lab is a hands-on, intensive, essential course in Computer Science, held at ETH Zurich.
 
 It is focused on the development of algorithmic and problem solving skills.
